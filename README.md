@@ -1,4 +1,7 @@
 # Safana-Munir-CV
+You will find my CV within this repo.
+
+
 # Introduction
 I have been retraining myself within web development for the past 6 months. I enjoy finding solutions, learning new things and have a talent for being able to streamline
 processes.
