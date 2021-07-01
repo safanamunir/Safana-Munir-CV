@@ -1,5 +1,6 @@
 # Safana-Munir-CV
-You will find my CV within this repo.
+
+You will find my PDF CV within this repo.
 
 https://github.com/safanamunir/Safana-Munir-CV/blob/main/SafanaMunir-JuniorWebDeveloper.pdf
 
