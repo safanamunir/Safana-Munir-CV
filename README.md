@@ -2,7 +2,7 @@
 
 You will find my PDF CV within this repo.
 
-https://github.com/safanamunir/Safana-Munir-CV/blob/main/SafanaMunir-JuniorWebDeveloper.pdf
+<a href="https://github.com/safanamunir/Safana-Munir-CV/blob/main/SafanaMunir-JuniorWebDeveloper.pdf" > Safana Munir CV pdf</a>
 
 
 # Introduction
